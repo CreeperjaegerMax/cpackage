@@ -1,7 +1,7 @@
-7zip, https://www.7-zip.org/a/7z2407-x64.exe
-vlc, https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe
+7zip, https://www.7-zip.org/a/7z2200-x64.msi /qn /norestart
+vlc, https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe /S
 prismlauncher, https://github.com/PrismLauncher/PrismLauncher/releases/download/8.4/PrismLauncher-Windows-MSVC-Setup-8.4.exe
-minecraftjava, https://launcher.mojang.com/download/MinecraftInstaller.msi?ref=mcnet
+minecraftjava, https://launcher.mojang.com/download/MinecraftInstaller.msi /qn /norestart
 lunarclient, https://launcherupdates.lunarclientcdn.com/Lunar%20Client%20v3.2.11.exe
-memory, https://github.com/CreeperjaegerMax/Memory/releases/download/App/MemorySetup.msi
-shutdownmanager, https://github.com/CreeperjaegerMax/ShutdownManager/releases/download/Release/ShutdownManager.msi
+memory, https://github.com/CreeperjaegerMax/Memory/releases/download/App/MemorySetup.msi /qn /norestart
+shutdownmanager, https://github.com/CreeperjaegerMax/ShutdownManager/releases/download/Release/ShutdownManager.msi /qn /norestart
