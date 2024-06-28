@@ -5,3 +5,4 @@ minecraftjava, https://launcher.mojang.com/download/MinecraftInstaller.msi
 lunarclient, https://launcherupdates.lunarclientcdn.com/Lunar%20Client%20v3.2.11.exe
 memory, https://github.com/CreeperjaegerMax/Memory/releases/download/App/MemorySetup.msi
 shutdownmanager, https://github.com/CreeperjaegerMax/ShutdownManager/releases/download/Release/ShutdownManager.msi
+brave, https://referrals.brave.com/latest/BraveBrowserSetup-BRV013.exe
